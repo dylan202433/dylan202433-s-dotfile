@@ -1,3 +1,5 @@
+![Alt Text](https://drive.google.com/file/d/1RXZ-vgsZ3hDgEL0xZMa3GSyE47Fj7Z3y/view?usp=sharing)
+
 First of all, Install the newest Hyprland using this guide depend on your Distro:
 
 yay -S hyprland-git
