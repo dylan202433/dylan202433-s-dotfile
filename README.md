@@ -4,8 +4,6 @@ yay -S hyprland-git
 
 Base setups 💻:
 
-    Install waybar, Rofi, Dunst, kitty terminal, swaybg, swaylock-fancy, swayidle, pamixer, light, Brillo:
-
 yay -S waybar-hyprland rofi dunst kitty swaybg swaylock-fancy-git swayidle pamixer light brillo
 
 Required Fonts
@@ -24,5 +22,7 @@ fc-cache -fv
 Copy Files 💾Copy Files 💾
 
 git clone https://github.com/dylan202433/dylan202433-s-dotfile.git
+
 cd dylan202433-s-dotfile
+
 cp -r ./config/* ~/.config/
