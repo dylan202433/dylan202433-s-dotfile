@@ -27,3 +27,5 @@ git clone https://github.com/dylan202433/dylan202433-s-dotfile.git
 cd dylan202433-s-dotfile
 
 cp -r ./config/* ~/.config/
+
+if there some error please fix it
