@@ -6,6 +6,8 @@ Base setups 💻:
 
 yay -S waybar-hyprland rofi dunst kitty swaybg swaylock-fancy-git swayidle pamixer light brillo
 
+sudo pacman -S python python-pip
+
 Required Plugin
 
 hyprpm add https://github.com/alexhulbert/Hyprchroma
