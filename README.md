@@ -1,4 +1,4 @@
-![Alt Text]
+![Alt Text](some-cool-hyprland.png)
 
 First of all, Install the newest Hyprland using this guide depend on your Distro:
 
