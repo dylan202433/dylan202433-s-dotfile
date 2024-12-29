@@ -7,6 +7,7 @@ Base setups 💻:
 yay -S waybar-hyprland rofi dunst kitty swaybg swaylock-fancy-git swayidle pamixer light brillo
 
 Required Plugin
+
 hyprpm add https://github.com/alexhulbert/Hyprchroma
 
 hyprpm enable hyprchroma
