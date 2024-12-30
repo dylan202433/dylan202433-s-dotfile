@@ -12,6 +12,8 @@ sudo pacman -S python python-pip waybar
 
 Required Plugin
 
+hyprpm update
+
 hyprpm add https://github.com/alexhulbert/Hyprchroma
 
 hyprpm enable hyprchroma
