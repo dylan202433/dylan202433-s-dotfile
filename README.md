@@ -8,7 +8,7 @@ Base setups 💻:
 
 yay -S waybar-hyprland rofi dunst kitty swaybg swaylock-fancy-git swayidle pamixer light brillo cmake meson cpio pkg-config
 
-sudo pacman -S python python-pip waybar
+sudo pacman -S python python-pip waybar cliphist
 
 Required Plugin
 
