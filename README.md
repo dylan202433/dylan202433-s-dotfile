@@ -8,7 +8,7 @@ Base setups 💻:
 
 yay -S waybar-hyprland rofi dunst kitty swaylock-fancy-git swayidle pamixer light brillo cmake meson cpio pkg-config waypaper
 
-sudo pacman -S python python-pip waybar cliphist swww  power-profiles-daemon
+sudo pacman -S python python-pip waybar cliphist swww  power-profiles-daemon python-pywal
 
 Required Plugin
 
