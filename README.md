@@ -6,7 +6,7 @@ yay -S hyprland-git
 
 Base setups 💻:
 
-yay -S waybar-hyprland rofi dunst kitty swaylock-fancy-git swayidle pamixer light brillo cmake meson cpio pkg-config waypaper
+yay -S waybar-hyprland rofi dunst kitty swaylock-fancy-git swayidle pamixer light brillo cmake meson cpio pkg-config waypaper hyprpolkitagent 
 
 sudo pacman -S python python-pip waybar cliphist swww  power-profiles-daemon python-pywal
 
